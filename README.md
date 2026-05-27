@@ -150,11 +150,11 @@ Plan a 3 day trip from Hyderabad to Delhi on 2025-01-04 with budget hotel, break
 
 ## Homepage
 
-Add screenshot here.
+![Homepage](screenshots/homepage.png)
 
 ## Generated Travel Plan
 
-Add screenshot here.
+![Result](screenshots/result.png)
 
 ---
 
